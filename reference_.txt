@@ -1,0 +1,8 @@
+https://medium.com/@yamen.abd98/clean-architecture-in-flutter-mvvm-bloc-dio-79b1615530e1
+https://medium.com/@yamen.abd98/unit-testing-in-flutter-with-clean-architecture-49d403645b4d
+
+https://medium.com/@krishnajiyedlapalli60/clean-architecture-using-flutter-bloc-43463e9110db
+https://medium.com/@krishnajiyedlapalli60/offline-implementation-in-flutter-0d3094ed566c
+https://medium.com/stackademic/flutter-localization-and-internationalization-with-ltr-and-rtl-support-3c70cb926ba5
+https://medium.com/@krishnajiyedlapalli60/creating-custom-theme-in-flutter-with-material-3-70e524a126d0
+

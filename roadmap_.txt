@@ -1,0 +1,7 @@
+"Menggunakan BloC untuk Manajemen Negara, Dio untuk panggilan API, 
+dan json_serializable untuk mengurai respons json terhadap model kami"
+
+
+1. Arsitektur Bersih di Flutter | MVVM | Blok | Dio
+2. Kita akan mulai dari lapisan Domain, pertama kita harus membuat model untuk mengurai respons json api ke model kita.
+3. Pembuatan Kode menggunakan Flutter | sumber_gen | build_runner.
