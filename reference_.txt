@@ -10,7 +10,17 @@ https://medium.com/@krishnajiyedlapalli60/creating-custom-theme-in-flutter-with-
 Download Tema
 https://code.market/product/ecommerance-flutter-ui
 https://github.com/sudeshnb/Flutter-Contacts-App/blob/main/pubspec.yaml
+https://flutterawesome.com/todo-app-developed-in-flutter-with-node-js-backend/
+https://github.com/sahilchavan94/flutter_bloc_news_app
+https://github.com/sahilchavan94/flutter_bloc_shopping_cart/tree/main
 
 
 premium
+https://flutterawesome.com/ = best seller
 https://maneesha-erandi.medium.com/
+https://vineethchandran.live/
+https://github.com/sahilchavan94/flutter_bloc_sneakers
+https://github.com/sahilchavan94/dockIt
+https://github.com/IsaiasCuvula/flutter_riverpod_todo_app
+https://github.com/ZaenalMuzaqqi/Maknews-Flutter-with-BLoc-Dio-Freezed-Injectable
+https://github.com/mahdi008397/apple-shope
